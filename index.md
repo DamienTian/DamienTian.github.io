@@ -5,6 +5,7 @@ Hi, My name is Hao! I am an entry level game designer and developer!
 Feel free to check [my Profile](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
 
 ### My Works
+Feel free to clone any of the project and play! Hope you enjoy them!
 
 #### Mathris
 
@@ -26,12 +27,23 @@ However, it is more than Tetris ... it has math in it!
 * **Francisco Sepúlveda**: Audio Artist, Concept Designer.
 
 For more details see our work on [GitHub - Mathris](https://github.com/riffsircar/Mathris).
-Feel free to clone it and play! Hope you enjoy!
 
-### Jekyll Themes
+#### Lazer Defender
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DamienTian/DamienTian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Lazer Defender image](/images/Lazer_Defender.png)
 
-### Support or Contact
+This is a individual project that follows the instruction of Udemy course:  
+*Complete C# Unity Developer 2D: Learn to Code Making Games* present by *Ben Tristem* and *Rick Davidson*.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+All art works are made by myself, including background, play items and particle effects.
+
+For more details see our work on [GitHub - Lazer_Defender](https://github.com/riffsircar/Mathris).
+
+#### Block Breaker
+
+![Block Breaker image](/images/Block_Breaker.png)
+
+This is a individual project that follows the instruction of Udemy course:  
+*Complete C# Unity Developer 2D: Learn to Code Making Games* present by *Ben Tristem* and *Rick Davidson*.
+
+For more details see our work on [GitHub - Block Breaker](https://github.com/riffsircar/Mathris).

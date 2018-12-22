@@ -1,4 +1,4 @@
-## Welcome to Hao's Profolio
+## Welcome to My Profolio
 
 Hi, My name is Hao! I am an entry level game designer and developer!
 
@@ -7,6 +7,7 @@ Feel free to check my [LinkedIn](https://www.linkedin.com/in/hao-tian-b405ba7a/)
 ### My Works
 
 #### Mathris
+
 
 ```markdown
 Syntax highlighted code block

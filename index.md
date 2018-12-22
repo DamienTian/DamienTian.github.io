@@ -10,12 +10,17 @@ Feel free to check my [LinkedIn](https://www.linkedin.com/in/hao-tian-b405ba7a/)
 
 ![Mathris image](/images/mathris.png)
 
-Job Titles: Project Founder, Senior Developer, General Designer.
-Team Members:
-* Anurag Sarkar: Lead Developer, Mechanics Designer.
-* Wendi Zhang: Lead Artist, Theme Designer.
-* Hongshen Xu: Effect Artist, Theme & Mechanics Designer.
-* Francisco Sepúlveda: Audio Artist, Mechanics Designer.
+<p align="center">
+This is a puzzle game based on the Tetris.
+However, it is more than Tetris ... it has math in it!
+</p>
+
+**My Job Titles**: Project Founder, Senior Developer, General Designer.
+###### Team Members:
+* **Anurag Sarkar**: Lead Developer, Mechanics Designer.
+* **Wendi Zhang**: Lead Artist, Theme Designer.
+* **Hongshen Xu:** Effect Artist, Concept Designer.
+* **Francisco Sepúlveda**: Audio Artist, Concept Designer.
 
 For more details see our work on [GitHub - Mathris](https://github.com/riffsircar/Mathris).
 Feel free to clone it and play! Hope you enjoy!

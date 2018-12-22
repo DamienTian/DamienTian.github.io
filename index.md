@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Hao's Profolio
 
-You can use the [editor on GitHub](https://github.com/DamienTian/DamienTian.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, My name is Hao! I am an entry level game designer and developer!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to check my [LinkedIn](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
 
-### Markdown
+### My Works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Mathris
 
 ```markdown
 Syntax highlighted code block

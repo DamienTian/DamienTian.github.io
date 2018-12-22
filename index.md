@@ -7,28 +7,18 @@ Feel free to check my [LinkedIn](https://www.linkedin.com/in/hao-tian-b405ba7a/)
 ### My Works
 
 #### Mathris
-![GitHub Logo](/images/mathris.png)
-Format: ![Alt Text](url)
 
-```markdown
-Syntax highlighted code block
+![Mathris image](/images/mathris.png)
 
-# Header 1
-## Header 2
-### Header 3
+Job Titles: Project Founder, Senior Developer, General Designer.
+Team Members:
+* Anurag Sarkar: Lead Developer, Mechanics Designer.
+* Wendi Zhang: Lead Artist, Theme Designer.
+* Hongshen Xu: Effect Artist, Theme & Mechanics Designer.
+* Francisco Sepúlveda: Audio Artist, Mechanics Designer.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see our work on [GitHub - Mathris](https://github.com/riffsircar/Mathris).
+Feel free to clone it and play! Hope you enjoy!
 
 ### Jekyll Themes
 

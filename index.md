@@ -30,7 +30,7 @@ For more details see our work on [GitHub - Mathris](https://github.com/riffsirca
 
 #### Pyres
 
-![Pyres image](/images/Pyres.png)
+![Pyres image](/images/Pyres.jpeg)
 
 This is a Ludum Dare Project which is designed and developed by three students from Northeastern Game Science and Design graduate program.
 

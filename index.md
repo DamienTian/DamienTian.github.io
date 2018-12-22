@@ -7,7 +7,8 @@ Feel free to check my [LinkedIn](https://www.linkedin.com/in/hao-tian-b405ba7a/)
 ### My Works
 
 #### Mathris
-
+![GitHub Logo](/images/mathris.png)
+Format: ![Alt Text](url)
 
 ```markdown
 Syntax highlighted code block

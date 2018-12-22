@@ -2,7 +2,7 @@
 
 Hi, My name is Hao! I am an entry level game designer and developer!
 
-Feel free to check my [LinkedIn](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
+Feel free to check [my Profile](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
 
 ### My Works
 
@@ -12,6 +12,9 @@ Feel free to check my [LinkedIn](https://www.linkedin.com/in/hao-tian-b405ba7a/)
 
 <p align="center">
 This is a puzzle game based on the Tetris.
+</p>
+
+<p align="center">
 However, it is more than Tetris ... it has math in it!
 </p>
 

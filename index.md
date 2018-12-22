@@ -28,6 +28,19 @@ However, it is more than Tetris ... it has math in it!
 
 For more details see our work on [GitHub - Mathris](https://github.com/riffsircar/Mathris).
 
+#### Pyres
+
+![Pyres image](/images/Pyres.png)
+
+This is a Ludum Dare Project which is designed and developed by three students from Northeastern Game Science and Design graduate program.
+
+**My Job Titles**: Lead Designer, Secondary Developer
+###### Team Members:
+* **Sidan Fan**: Lead Artist, **Idea Founder**.
+* **Fan Ling**: Lead Developer, Mechanics Designer.
+
+For more details see our work on [Ludum Dare - Pyres](https://ldjam.com/events/ludum-dare/43/pryes)
+
 #### Lazer Defender
 
 ![Lazer Defender image](/images/Lazer_Defender.png)
@@ -37,13 +50,17 @@ This is a individual project that follows the instruction of Udemy course:
 
 All art works are made by myself, including background, play items and particle effects.
 
-For more details see our work on [GitHub - Lazer_Defender](https://github.com/riffsircar/Mathris).
+For more details see our work on [GitHub - Lazer_Defender](https://github.com/DamienTian/Lazer-Defender).
 
-#### Block Breaker
 
-![Block Breaker image](/images/Block_Breaker.png)
 
-This is a individual project that follows the instruction of Udemy course:  
-*Complete C# Unity Developer 2D: Learn to Code Making Games* present by *Ben Tristem* and *Rick Davidson*.
+<!--#### Block Breaker-->
+<!---->
+<!--![Block Breaker image](/images/Block_Breaker.png)-->
+<!---->
+<!--This is a individual project that follows the instruction of Udemy course:  -->
+<!--*Complete C# Unity Developer 2D: Learn to Code Making Games* present by *Ben Tristem* and *Rick Davidson*.-->
+<!---->
+<!--For more details see our work on [GitHub - Block Breaker](https://github.com/riffsircar/Mathris).-->
 
-For more details see our work on [GitHub - Block Breaker](https://github.com/riffsircar/Mathris).
+

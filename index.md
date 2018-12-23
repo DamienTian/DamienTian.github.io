@@ -52,7 +52,16 @@ All art works are made by myself, including background, play items and particle 
 
 For more details see our work on [GitHub - Lazer_Defender](https://github.com/DamienTian/Lazer-Defender).
 
+#### Escape
 
+This is an analog game project of course GSND 5110 at Northeastern University.
+
+**My Job Titles**: Idea Founder, Mechanics Designer.
+###### Team Members:
+* **Wendi Zhang**: Lead Artist, Theme Designer.
+* **Fan Ling**: Lead Play Items Producer, Map Designer.
+
+Feel free to check our project blogs: [Escape](https://tianhao1.wixsite.com/gsnd5110project1)
 
 <!--#### Block Breaker-->
 <!---->

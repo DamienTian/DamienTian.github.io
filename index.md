@@ -54,6 +54,8 @@ For more details see our work on [GitHub - Lazer_Defender](https://github.com/Da
 
 #### Escape
 
+![Escape image](/images/escape.jpg)
+
 This is an analog game project of course GSND 5110 at Northeastern University.
 
 **My Job Titles**: Idea Founder, Mechanics Designer.

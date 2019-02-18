@@ -2,7 +2,7 @@
 
 Hi, My name is Hao! I am an entry level game designer and developer!
 
-Feel free to check [my portfolio](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
+Feel free to check [my profile](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
 
 ### My Works
 Feel free to clone any of the project and play! Hope you enjoy them!

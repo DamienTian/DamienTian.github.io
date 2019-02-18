@@ -1,11 +1,26 @@
-## Welcome to My Profolio
+## Welcome to My Portfolio
 
 Hi, My name is Hao! I am an entry level game designer and developer!
 
-Feel free to check [my profile](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
+Feel free to check [my portfolio](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
 
 ### My Works
 Feel free to clone any of the project and play! Hope you enjoy them!
+
+#### Escape Loneliness
+
+![Escape Loneliness image](/images/el0.png)
+![Escape Loneliness ss image](/images/el1.png)
+
+<p align="center">
+This is a Global Game Jam (2019) project designed and developed by two students from Northeastern Game Science and Design graduate program.
+</p>
+
+**My Job Titles**: Game AI designer and developer, UI developer, Map designer.
+###### Team Members:
+* **Ge Zhu**: Game features designer & developer, Graphic designer and developer.
+
+For more details see our work on [Global Game Jam 2019 - Escape Loneliness](https://globalgamejam.org/2019/games/escape-loneliness).
 
 #### Mathris
 
@@ -32,14 +47,14 @@ For more details see our work on [GitHub - Mathris](https://github.com/riffsirca
 
 ![Pyres image](/images/Pyres.jpeg)
 
-This is a Ludum Dare Project which is designed and developed by three students from Northeastern Game Science and Design graduate program.
+This is a Ludum Dare Project designed and developed by three students from Northeastern Game Science and Design graduate program.
 
 **My Job Titles**: Lead Designer, Secondary Developer
 ###### Team Members:
 * **Sidan Fan**: Lead Artist, **Idea Founder**.
 * **Fan Ling**: Lead Developer, Mechanics Designer.
 
-For more details see our work on [Ludum Dare - Pyres](https://ldjam.com/events/ludum-dare/43/pryes)
+For more details see our work on [Ludum Dare 43 - Pyres](https://ldjam.com/events/ludum-dare/43/pryes)
 
 #### Lazer Defender
 

@@ -41,7 +41,7 @@ However, it is more than Tetris ... it has math in it!
 * **Hongshen Xu:** Effect Artist, Concept Designer.
 * **Francisco Sepúlveda**: Audio Artist, Concept Designer.
 
-For more details see our work on [GitHub - Mathris](https://github.com/riffsircar/Mathris).
+For more details see our work on [Mathris](https://tian4damien.itch.io/mathris).
 
 #### Pyres
 

@@ -1,11 +1,11 @@
 Feel free to check [my LinkedIn profile](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
 
-### My Works
+## My Works
 Feel free to clone any of the project and play! Hope you enjoy them!
 
-#### Escape Loneliness
+### Escape Loneliness
 
-![Escape Loneliness image](/images/el0.png)
+![Escape Loneliness image](/images/el0.png = 1347x807 )
 ![Escape Loneliness ss image](/images/el1.png)
 
 <p align="center">
@@ -18,7 +18,7 @@ This is a Global Game Jam (2019) project designed and developed by two students 
 
 For more details see our work on [Global Game Jam 2019 - Escape Loneliness](https://globalgamejam.org/2019/games/escape-loneliness).
 
-#### Mathris
+### Mathris
 
 ![Mathris image](/images/mathris.png)
 
@@ -39,7 +39,7 @@ However, it is more than Tetris ... it has math in it!
 
 For more details see our work on [Mathris](https://tian4damien.itch.io/mathris).
 
-#### Pyres
+### Pyres
 
 ![Pyres image](/images/Pyres.jpeg)
 
@@ -52,7 +52,7 @@ This is a Ludum Dare Project designed and developed by three students from North
 
 For more details see our work on [Ludum Dare 43 - Pyres](https://ldjam.com/events/ludum-dare/43/pryes)
 
-#### Lazer Defender
+### Lazer Defender
 
 ![Lazer Defender image](/images/Lazer_Defender.png)
 
@@ -63,7 +63,7 @@ All art works are made by myself, including background, play items and particle 
 
 For more details see our work on [Lazer_Defender](https://tian4damien.itch.io/laser-defender).
 
-#### Escape
+### Escape
 
 ![Escape image](/images/escape.jpg)
 

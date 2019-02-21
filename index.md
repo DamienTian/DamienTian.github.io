@@ -5,7 +5,7 @@ Feel free to clone any of the project and play! Hope you enjoy them!
 
 ### Escape Loneliness
 
-![Escape Loneliness image](/images/el0.png = 1347x807 )
+![Escape Loneliness image](/images/el0.png)
 ![Escape Loneliness ss image](/images/el1.png)
 
 <p align="center">

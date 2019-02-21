@@ -65,7 +65,7 @@ This is a individual project that follows the instruction of Udemy course:
 
 All art works are made by myself, including background, play items and particle effects.
 
-For more details see our work on [GitHub - Lazer_Defender](https://github.com/DamienTian/Lazer-Defender).
+For more details see our work on [Lazer_Defender](https://tian4damien.itch.io/laser-defender).
 
 #### Escape
 

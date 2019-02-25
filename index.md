@@ -37,7 +37,7 @@ However, it is more than Tetris ... it has math in it!
 * **Hongshen Xu**: Effect Artist, Concept Designer.
 * **Francisco Sepúlveda**: Audio Artist, Concept Designer.
 
-For more details see our work on [Mathris](https://tian4damien.itch.io/mathris).
+Feel free to play and check the details about [Mathris](https://tian4damien.itch.io/mathris)!
 
 ### Pyres
 
@@ -69,8 +69,8 @@ For more details see our work on [Lazer_Defender](https://tian4damien.itch.io/la
 
 This is an analog game project of course GSND 5110 at Northeastern University.
 
-**My Job Titles**: Idea Founder, Mechanics Designer.
 ###### Team Members:
+* **Hao Tian**: Idea Founder, Mechanics Designer.
 * **Wendi Zhang**: Lead Artist, Theme Designer.
 * **Fan Ling**: Lead Play Items Producer, Map Designer.
 

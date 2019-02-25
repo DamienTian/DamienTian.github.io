@@ -1,4 +1,4 @@
-Feel free to check my [LinkedIn profile](https://www.linkedin.com/in/hao-tian-b405ba7a/) and [Github](https://github.com/DamienTian).
+Feel free to check [my LinkedIn profile](https://www.linkedin.com/in/hao-tian-b405ba7a/)!
 
 ## My Works
 Feel free to clone any of the project and play! Hope you enjoy them!
@@ -12,8 +12,8 @@ Feel free to clone any of the project and play! Hope you enjoy them!
 This is a Global Game Jam (2019) project designed and developed by two students from Northeastern Game Science and Design graduate program.
 </p>
 
+**My Job Titles**: Game AI designer and developer, UI developer, Map designer.
 ###### Team Members:
-* **Hao Tian**: Game AI designer and developer, UI developer, Map designer.
 * **Ge Zhu**: Game features designer & developer, Graphic designer and developer.
 
 For more details see our work on [Global Game Jam 2019 - Escape Loneliness](https://globalgamejam.org/2019/games/escape-loneliness).
@@ -30,11 +30,11 @@ This is a puzzle game based on the Tetris.
 However, it is more than Tetris ... it has math in it!
 </p>
 
+**My Job Titles**: Project Founder, Senior Developer, General Designer.
 ###### Team Members:
-* **Hao Tian**: Project Founder, Senior Developer, General Designer.
 * **Anurag Sarkar**: Lead Developer, Mechanics Designer.
 * **Wendi Zhang**: Lead Artist, Theme Designer.
-* **Hongshen Xu**: Effect Artist, Concept Designer.
+* **Hongshen Xu:** Effect Artist, Concept Designer.
 * **Francisco Sepúlveda**: Audio Artist, Concept Designer.
 
 For more details see our work on [Mathris](https://tian4damien.itch.io/mathris).
@@ -45,8 +45,8 @@ For more details see our work on [Mathris](https://tian4damien.itch.io/mathris).
 
 This is a Ludum Dare Project designed and developed by three students from Northeastern Game Science and Design graduate program.
 
+**My Job Titles**: Lead Designer, Secondary Developer
 ###### Team Members:
-* **Hao Tian**: Lead Designer, Secondary Developer
 * **Sidan Fan**: Lead Artist, **Idea Founder**.
 * **Fan Ling**: Lead Developer, Mechanics Designer.
 

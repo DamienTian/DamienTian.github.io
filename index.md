@@ -1,4 +1,4 @@
-Contact: tian4damien@gmail.com
+Contact: <tian4damien@gmail.com>
 
 Feel free to check my [LinkedIn profile](https://www.linkedin.com/in/hao-tian-b405ba7a/) and [Github](https://github.com/DamienTian).
 

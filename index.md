@@ -1,3 +1,5 @@
+Contact: tian4damien@gmail.com
+
 Feel free to check my [LinkedIn profile](https://www.linkedin.com/in/hao-tian-b405ba7a/) and [Github](https://github.com/DamienTian).
 
 ## My Works
@@ -76,13 +78,4 @@ This is an analog game project of course GSND 5110 at Northeastern University.
 
 Feel free to check our project blogs: [Escape](https://tianhao1.wixsite.com/gsnd5110project1)
 
-<!--#### Block Breaker-->
-<!---->
-<!--![Block Breaker image](/images/Block_Breaker.png)-->
-<!---->
-<!--This is a individual project that follows the instruction of Udemy course:  -->
-<!--*Complete C# Unity Developer 2D: Learn to Code Making Games* present by *Ben Tristem* and *Rick Davidson*.-->
-<!---->
-<!--For more details see our work on [GitHub - Block Breaker](https://github.com/riffsircar/Mathris).-->
-
-
+<!--NOTE: Proofreading + only mentioned yourself's work.-->

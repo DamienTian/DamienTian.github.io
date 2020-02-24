@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hao Tian - Escape Loneliness</title>
+<link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">  
+<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">    
+
+</head>
+
+<body>
+	<section class="profileHeader">
+    <h1 class="gameTitle">Escape Loneliness</h1>
+    <h4>Don't be alone, find your friends and stay strong.&nbsp;</h4>
+    <hr>
+	
+	<div class="swiper-container">
+    <div class="swiper-wrapper">
+		<div class="swiper-slide"><img src="AboutPageAssets/images/el/el0.png" height="450" width="800"></div>
+        <div class="swiper-slide"><img src="AboutPageAssets/images/el/el1.png" height="450" width="800"></div>
+    </div>
+    <!-- 如果需要分页器 -->
+    <div class="swiper-pagination"></div>
+    
+    <!-- 如果需要导航按钮 -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+    
+    <!-- 如果需要滚动条 -->
+    <!-- <div class="swiper-scrollbar"></div> -->
+	</div>
+	<p>Job title: Game AI designer and developer, UI developer, Map designer and developer.</p>
+    <p>This is a Global Game Jam (2019) project designed and developed by two students from Northeastern Game Science and Design graduate program. This game is about finding similar characters, form a new family and survive from the "Loneliness". Inside the game world, the player needs to explore this dark "Loneliness world" and find shapes that are same as player's shape. Finding more shape can help player him/herself to survive in the world and help others to survive in this "Lonely world". The theme of our game is abstractly related to the THEME of this year: we try to represent the "home" with a group that shares similarities, the group members support each other and go through hard times. The win condition: In order to win this game, the player needs to find enough "homie" (similar shape) and survive in the game world. The lose conditions: Player's loneliness reaches the 100 before enough "homie" were found.</p>
+		
+    <p>In this project, me and another developer work different aspects of the game (we didn't find a artist or designer :( ). I developed game AIs which could follow player, approach to player and stop naturally, and auto format the troop when too many "homies" near the player. I created the map and the UI of the game to deliver the feeling of walking in an empty town with hard ground where no plant can grows and the feeling of lost in the smog.</p>
+		
+    <p>Feel free to check it on Global Game Jam 2019 page: <a href="https://globalgamejam.org/2019/games/escape-loneliness">Escape Loneliness</a></p>
+  </section>
+	
+	<div class="backToMain">
+		 <a href="index.html">Back to the main page</a>
+	</div>
+<footer>
+  <hr>
+  <p class="footerDisclaimer">2018-2020 Copyrights - <span>All Rights Reserved</span></p>
+  <p class="footerNote">Hao Tian - <span><a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tian4damien@gmail.com&su=SUBJECT&body=BODY&tf=1">Email me</a></span></p>
+</footer>
+
+<script src="https://unpkg.com/swiper/js/swiper.js"> </script>  
+<script src="https://unpkg.com/swiper/js/swiper.min.js"> </script>
+
+<script type="text/javascript">
+    var mySwiper = new Swiper ('.swiper-container', {
+    // 滚动方向 horizontal/vertical
+    direction: 'horizontal',
+    // 自动播放
+    autoplay:2000,
+    // 是否循环播放
+    loop: true,
+    // 如果需要分页器（小圆点）
+    // 是否需要分页器
+    pagination: '.swiper-pagination',
+    // 点击分页器是否切换到对应的图片 是 true 否 false
+    paginationClickable:true,
+
+    // 如果需要前进后退按钮
+    nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+		
+	// 如果需要前进后退按钮
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    
+    // 用户操作swiper之后，是否禁止autoplay。默认为true：停止。
+    // 如果设置为false，用户操作swiper之后自动切换不会停止，每次都会重新启动autoplay。
+    // 操作包括触碰，拖动，点击pagination等。
+    autoplayDisableOnInteraction:false,
+  }) 
+
+</script>
+	
+</body>
+</html>

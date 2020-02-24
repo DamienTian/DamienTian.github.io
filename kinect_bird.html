@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hao Tian - Kinect Bird</title>
+<link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<section class="profileHeader">
+    <h1 class="gameTitle">Kinect Bird</h1>
+    <h4>Play Flappy Bird with XBox Kinect 🐦~~~&nbsp;</h4>
+    <hr>
+		
+	<iframe width="960" height="540" src="https://www.youtube.com/embed/F1aA_ASISwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<br>	
+		
+	<p>Job title: Developer</p>
+    <p>This is my final project for GSND 6340 Biometrics for Design at Northeastern University. The designer and I have the idea of playing Flappy Bird with actual swing the arms as bird wings, so we decided to recreated the Flappy Bird on Unity with XBox Kinect. In the game, player needs to flap their arms upside down (or reverse) and the bird will make a flap. For more documention, please check this <a href="https://biometrics2019.wordpress.com/sky-leap/">page</a>.</p>
+	
+	<p>In this project, I use Kinect Pro for Unity plug-in to develop the game. I studied the plug-in code and understand how does it works and how should I use it to achieve our goal. Some hardward issue was met during the project development, but I managed to solve this by reading documentation and check other Kinect project. The control of the game is the most annoying issue, but I developed the functionality of detecting one "flap". At the end, we did a lot tunning and made the game playable. </p>
+		
+    <p>Feel free to check our work on our github page: <a href="https://github.com/DamienTian/KinectBird">Kinect Bird</a>.</p>
+  </section>
+	
+	<div class="backToMain">
+		 <a href="index.html">Back to the main page</a>
+	</div>
+<footer>
+  <hr>
+  <p class="footerDisclaimer">2018-2020 Copyrights - <span>All Rights Reserved</span></p>
+  <p class="footerNote">Hao Tian - <span><a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tian4damien@gmail.com&su=SUBJECT&body=BODY&tf=1">Email me</a></span></p>
+</footer>
+
+<script src="https://unpkg.com/swiper/js/swiper.js"> </script>  
+<script src="https://unpkg.com/swiper/js/swiper.min.js"> </script>
+
+<script type="text/javascript">
+    var mySwiper = new Swiper ('.swiper-container', {
+    // 滚动方向 horizontal/vertical
+    direction: 'horizontal',
+    // 自动播放
+    autoplay:2000,
+    // 是否循环播放
+    loop: true,
+    // 如果需要分页器（小圆点）
+    // 是否需要分页器
+    pagination: '.swiper-pagination',
+    // 点击分页器是否切换到对应的图片 是 true 否 false
+    paginationClickable:true,
+
+    // 如果需要前进后退按钮
+    nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+		
+	// 如果需要前进后退按钮
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    
+    // 用户操作swiper之后，是否禁止autoplay。默认为true：停止。
+    // 如果设置为false，用户操作swiper之后自动切换不会停止，每次都会重新启动autoplay。
+    // 操作包括触碰，拖动，点击pagination等。
+    autoplayDisableOnInteraction:false,
+  }) 
+
+</script>
+	
+</body>
+</html>

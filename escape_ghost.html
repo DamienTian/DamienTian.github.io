@@ -1,90 +1,90 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="UTF-8">
-<title>Hao Tian - Me Behind the Mirror</title>
-<link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">  
-<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">    
+  <meta charset="UTF-8">
+  <title>Hao Tian - Me Behind the Mirror</title>
+  <link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
 
 </head>
 
 <body>
-	<section class="profileHeader">
+  <section class="profileHeader">
     <h1 class="gameTitle">Escape The Ghost</h1>
     <h4>Run away from ghosts, RUN!!!&nbsp;</h4>
     <hr>
 
-	<div class="swiper-container">
-    <div class="swiper-wrapper">
-		<div class="swiper-slide"><img src="AboutPageAssets/images/escape_goest/0.jpg" height="480" width="800"></div>
-        <div class="swiper-slide"><img src="AboutPageAssets/images/escape_goest/1.jpg" height="480" width="800"></div>
-        <div class="swiper-slide"><img src="AboutPageAssets/images/escape_goest/2.jpg" height="480" width="800"></div>
-        <div class="swiper-slide"><img src="AboutPageAssets/images/escape_goest/3.jpg" height="480" width="800"></div>
-		<div class="swiper-slide"><img src="AboutPageAssets/images/escape_goest/4.jpg" height="480" width="800"></div>
-		<div class="swiper-slide"><img src="AboutPageAssets/images/escape_goest/5.jpg" height="480" width="800"></div>
+    <div class="slideshow-container">
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/escape_goest/0.jpg" height="480" width="800">
+        <div class="text">Game screenshot 1</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/escape_goest/1.jpg" height="480" width="800">
+        <div class="text">Game screenshot 2</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/escape_goest/2.jpg" height="480" width="800">
+        <div class="text">Game screenshot 3</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/escape_goest/3.jpg" height="480" width="800">
+        <div class="text">Game screenshot 4</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/escape_goest/4.jpg" height="480" width="800">
+        <div class="text">Game screenshot 5</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/escape_goest/5.jpg" height="480" width="800">
+        <div class="text">Game screenshot 6</div>
+      </div>
+      <a class="prev" onclick="plusSlides(-1)">❮</a>
+      <a class="next" onclick="plusSlides(1)">❯</a>
     </div>
-    <!-- 如果需要分页器 -->
-    <div class="swiper-pagination"></div>
-    
-    <!-- 如果需要导航按钮 -->
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
-    
-    <!-- 如果需要滚动条 -->
-    <!-- <div class="swiper-scrollbar"></div> -->
-	</div>
-	<p>Job title: Lead Developer, Animation Maker</p>
-    <p>This is my 2019 Northeastern University Game Jam project which is done by a student team in 48 hours. The theme of the Game Jam is <i>escape</i>, so the designers came up with a simple idea, escape from some tangible and terrifying objects, which is ghosts. The game contains 3 complete level and a tutorial level. The goal of this game is finding the portal that can escape from the ghosts OR the ghosts will keep hunting you and kill you. The most of art assets (including main character, ghost, background and tiles) are made by the team artist. &nbsp;</p>
-		
-	<p>As the lead developer, I used the knowledge I learned from Ben Tristem and Rick Davidson Unity course <a href="https://www.udemy.com/course/unitycourse/"> <i>Complete C# Unity Developer 2D: Learn to Code Making Games</i></a> on Udemy to develop the game. I used TileMap system in Unity to develop each level. Three levels was created in 48 hours and went through all team members' tests. I also create all characters and items' animations by using the art assets which is made by the artist. </p>
-    
-	<p>Feel free to download and play it: <a href="Contents/EscapeGhost.zip">Escape The Ghost</a>. (Sorry the game only supports Mac OS for now : ( )</p>
+    <br>
+
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+      <span class="dot" onclick="currentSlide(6)"></span>
+    </div>
+
+    <p>Job title: Lead Developer, Animation Maker</p>
+    <p>This is my 2019 Northeastern University Game Jam project which is done by a student team in 48 hours. The theme
+      of the Game Jam is <i>escape</i>, so the designers came up with a simple idea, escape from some tangible and
+      terrifying objects, which is ghosts. The game contains 3 complete level and a tutorial level. The goal of this
+      game is finding the portal that can escape from the ghosts OR the ghosts will keep hunting you and kill you. The
+      most of art assets (including main character, ghost, background and tiles) are made by the team artist. &nbsp;</p>
+
+    <p>As the lead developer, I used the knowledge I learned from Ben Tristem and Rick Davidson Unity course <a
+        href="https://www.udemy.com/course/unitycourse/"> <i>Complete C# Unity Developer 2D: Learn to Code Making
+          Games</i></a> on Udemy to develop the game. I used TileMap system in Unity to develop each level. Three levels
+      was created in 48 hours and went through all team members' tests. I also create all characters and items'
+      animations by using the art assets which is made by the artist. </p>
+
+    <p>Feel free to download and play it: <a href="Contents/EscapeGhost.zip">Escape The Ghost</a>. (Sorry the game only
+      supports Mac OS for now : ( )</p>
   </section>
-	
-	<div class="backToMain">
-		 <a href="index.html">Back to the main page</a>
-	</div>
-<footer>
-  <hr>
-  <p class="footerDisclaimer">2018-2020 Copyrights - <span>All Rights Reserved</span></p>
-  <p class="footerNote">Hao Tian - <span><a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tian4damien@gmail.com&su=SUBJECT&body=BODY&tf=1">Email me</a></span></p>
-</footer>
 
-<script src="https://unpkg.com/swiper/js/swiper.js"> </script>  
-<script src="https://unpkg.com/swiper/js/swiper.min.js"> </script>
+  <div class="backToMain">
+    <a href="index.html">Back to the main page</a>
+  </div>
+  <footer>
+    <hr>
+    <p class="footerDisclaimer">2018-2020 Copyrights - <span>All Rights Reserved</span></p>
+    <p class="footerNote">Hao Tian - <span><a
+          href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tian4damien@gmail.com&su=SUBJECT&body=BODY&tf=1">Email
+          me</a></span></p>
+  </footer>
 
-<script type="text/javascript">
-    var mySwiper = new Swiper ('.swiper-container', {
-    // 滚动方向 horizontal/vertical
-    direction: 'horizontal',
-    // 自动播放
-    autoplay:2000,
-    // 是否循环播放
-    loop: true,
-    // 如果需要分页器（小圆点）
-    // 是否需要分页器
-    pagination: '.swiper-pagination',
-    // 点击分页器是否切换到对应的图片 是 true 否 false
-    paginationClickable:true,
+  <script src="Scripts/slideshow.js"></script>
 
-    // 如果需要前进后退按钮
-    nextButton: '.swiper-button-next',
-    prevButton: '.swiper-button-prev',
-		
-	// 如果需要前进后退按钮
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    },
-    
-    // 用户操作swiper之后，是否禁止autoplay。默认为true：停止。
-    // 如果设置为false，用户操作swiper之后自动切换不会停止，每次都会重新启动autoplay。
-    // 操作包括触碰，拖动，点击pagination等。
-    autoplayDisableOnInteraction:false,
-  }) 
-
-</script>
-	
 </body>
+
 </html>

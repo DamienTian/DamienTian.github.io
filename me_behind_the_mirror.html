@@ -1,94 +1,96 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="UTF-8">
-<title>Hao Tian - Me Behind the Mirror</title>
-<link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">  
-<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">    
+  <meta charset="UTF-8">
+  <title>Hao Tian - Me Behind the Mirror</title>
+  <link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
 
 </head>
 
 <body>
-	<section class="profileHeader">
+  <section class="profileHeader">
     <h1 class="gameTitle">Me Behind the Mirror</h1>
     <h4>A game that change people‘s attitude about school bullying&nbsp;</h4>
     <hr>
-	
-	<iframe width="960" height="540" src="https://www.youtube.com/embed/sGQhV2ivrmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
-		
-	<br>
-		
-	<div class="swiper-container">
-    <div class="swiper-wrapper">
-		<div class="swiper-slide"><img src="AboutPageAssets/images/me_behind_the_mirror/cover.png" height="450" width="800"></div>
-        <div class="swiper-slide"><img src="AboutPageAssets/images/me_behind_the_mirror/l1_1.png" height="450" width="800"></div>
-        <div class="swiper-slide"><img src="AboutPageAssets/images/me_behind_the_mirror/l2_1.png" height="450" width="800"></div>
-        <div class="swiper-slide"><img src="AboutPageAssets/images/me_behind_the_mirror/l2_2.png" height="450" width="800"></div>
-		<div class="swiper-slide"><img src="AboutPageAssets/images/me_behind_the_mirror/l2_3.png" height="450" width="800"></div>
-		<div class="swiper-slide"><img src="AboutPageAssets/images/me_behind_the_mirror/l3_1.png" height="450" width="800"></div>
+
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/sGQhV2ivrmc" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <br>
+
+    <div class="slideshow-container">
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/me_behind_the_mirror/cover.png" height="450" width="800">
+        <div class="text">Cover</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/me_behind_the_mirror/l1_1.png" height="450" width="800">
+        <div class="text">Game Scene: Level 1</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/me_behind_the_mirror/l2_1.png" height="450" width="800">
+        <div class="text">Game Scene: Level 2</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/me_behind_the_mirror/l2_2.png" height="450" width="800">
+        <div class="text">Game Scene: Level 2</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/me_behind_the_mirror/l2_3.png" height="450" width="800">
+        <div class="text">Game Scene: Level 2</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/me_behind_the_mirror/l3_1.png" height="450" width="800">
+        <div class="text">Game Scene: Level 3</div>
+      </div>
+      <a class="prev" onclick="plusSlides(-1)">❮</a>
+      <a class="next" onclick="plusSlides(1)">❯</a>
     </div>
-    <!-- 如果需要分页器 -->
-    <div class="swiper-pagination"></div>
-    
-    <!-- 如果需要导航按钮 -->
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
-    
-    <!-- 如果需要滚动条 -->
-    <!-- <div class="swiper-scrollbar"></div> -->
-	</div>
-	<p>Job title: Lead Developer, Graphics Tech Support, Visual Effects Designer, Trailer Maker</p>
-    <p>This is my Northeastern University thesis project that I am working on with one designer (he is the artist as well). This is a 2D platformer game developed in Unity. The main theme of the game is to against school bully, the game tells a story about a girl's advantage in her dream and she gain confidence and courage during the advantage. The game has total of 3 levels, each level has different theme. Players can see how the girl becomes brave, strong and confident by going through her story in the game.</p>
-		
-    <p>In this project, I developed the game system and the most of the game objects functionality, the system and game objects can be used directly in the Unity with very little modification in the inspector. I also worked with the artist on animation and visual effect. I developed a animation listener that can automatically listen the target character's animation and play the same animation at the same time, this makes the inside world character's and outside world character's animation stay the same when player control either character. I also made the trailer using Microsoft Premiere Pro, which is the first trailer I have made.</p>
-    
-	<p>Feel free to play it: <a href="https://sidanfan.itch.io/me-behind-the-mirror">Me Behind the Mirror</a>. The game supports XBox controller.</p>
+    <br>
+
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+      <span class="dot" onclick="currentSlide(6)"></span>
+    </div>
+
+    <p>Job title: Lead Developer, Graphics Tech Support, Visual Effects Designer, Trailer Maker</p>
+    <p>This is my Northeastern University thesis project that I am working on with one designer (he is the artist as
+      well). This is a 2D platformer game developed in Unity. The main theme of the game is to against school bully, the
+      game tells a story about a girl's advantage in her dream and she gain confidence and courage during the advantage.
+      The game has total of 3 levels, each level has different theme. Players can see how the girl becomes brave, strong
+      and confident by going through her story in the game.</p>
+
+    <p>In this project, I developed the game system and the most of the game objects functionality, the system and game
+      objects can be used directly in the Unity with very little modification in the inspector. I also worked with the
+      artist on animation and visual effect. I developed a animation listener that can automatically listen the target
+      character's animation and play the same animation at the same time, this makes the inside world character's and
+      outside world character's animation stay the same when player control either character. I also made the trailer
+      using Microsoft Premiere Pro, which is the first trailer I have made.</p>
+
+    <p>Feel free to play it: <a href="https://sidanfan.itch.io/me-behind-the-mirror">Me Behind the Mirror</a>. The game
+      supports XBox controller.</p>
   </section>
-	
-	<div class="backToMain">
-		 <a href="index.html">Back to the main page</a>
-	</div>
-<footer>
-  <hr>
-  <p class="footerDisclaimer">2018-2020 Copyrights - <span>All Rights Reserved</span></p>
-  <p class="footerNote">Hao Tian - <span><a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tian4damien@gmail.com&su=SUBJECT&body=BODY&tf=1">Email me</a></span></p>
-</footer>
 
-<script src="https://unpkg.com/swiper/js/swiper.js"> </script>  
-<script src="https://unpkg.com/swiper/js/swiper.min.js"> </script>
+  <div class="backToMain">
+    <a href="index.html">Back to the main page</a>
+  </div>
+  <footer>
+    <hr>
+    <p class="footerDisclaimer">2018-2020 Copyrights - <span>All Rights Reserved</span></p>
+    <p class="footerNote">Hao Tian - <span><a
+          href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tian4damien@gmail.com&su=SUBJECT&body=BODY&tf=1">Email
+          me</a></span></p>
+  </footer>
 
-<script type="text/javascript">
-    var mySwiper = new Swiper ('.swiper-container', {
-    // 滚动方向 horizontal/vertical
-    direction: 'horizontal',
-    // 自动播放
-    autoplay:2000,
-    // 是否循环播放
-    loop: true,
-    // 如果需要分页器（小圆点）
-    // 是否需要分页器
-    pagination: '.swiper-pagination',
-    // 点击分页器是否切换到对应的图片 是 true 否 false
-    paginationClickable:true,
+  <script src="Scripts/slideshow.js"></script>
 
-    // 如果需要前进后退按钮
-    nextButton: '.swiper-button-next',
-    prevButton: '.swiper-button-prev',
-		
-	// 如果需要前进后退按钮
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    },
-    
-    // 用户操作swiper之后，是否禁止autoplay。默认为true：停止。
-    // 如果设置为false，用户操作swiper之后自动切换不会停止，每次都会重新启动autoplay。
-    // 操作包括触碰，拖动，点击pagination等。
-    autoplayDisableOnInteraction:false,
-  }) 
-
-</script>
-	
 </body>
+
 </html>

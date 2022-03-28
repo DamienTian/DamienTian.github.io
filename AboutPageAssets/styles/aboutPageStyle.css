@@ -26,6 +26,10 @@ img {
 	margin-right: auto;
 }
 
+p {
+	text-align: justify;
+}
+
 .grid {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -215,9 +219,11 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	background-color: rgba(208, 207, 207, 1.00);
 	display: inline-block;
 	text-align: center;
-	margin-top: 0px;
-	padding-top: 3%;
+	margin-top: 5px;
+	padding-top: 1.5%;
 	cursor: pointer;
+	text-emphasis-color: rgb(0, 0, 0);
+	color: black;
 }
 
 .mainContent .externalResourcesNav .externalResources:hover {

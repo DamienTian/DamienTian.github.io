@@ -1,94 +1,90 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="UTF-8">
-<title>Hao Tian - Mathris</title>
-<link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">  
-<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">    
+  <meta charset="UTF-8">
+  <title>Hao Tian - Mathris</title>
+  <link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
 
 </head>
 
 <body>
-	<section class="profileHeader">
+  <section class="profileHeader">
     <h1 class="gameTitle">Mathris</h1>
     <h4>This is a puzzle game based on the Tetris.<br>
-	However, it is more than Tetris ... it has math in it!&nbsp;</h4>
+      However, it is more than Tetris ... it has math in it!&nbsp;</h4>
     <hr>
-	
-	<div class="swiper-container">
-    <div class="swiper-wrapper">
-		<div class="swiper-slide"><img src="AboutPageAssets/images/mathris/0.jpg" height="500" width="800"></div>
-		<div class="swiper-slide"><img src="AboutPageAssets/images/mathris/1.jpg" height="500" width="800"></div>
-		<div class="swiper-slide"><img src="AboutPageAssets/images/mathris/2.jpg" height="500" width="800"></div>
-		<div class="swiper-slide"><img src="AboutPageAssets/images/mathris/3.jpg" height="500" width="800"></div>
-		<div class="swiper-slide"><img src="AboutPageAssets/images/mathris/4.jpg" height="500" width="800"></div>
+
+    <div class="slideshow-container">
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/mathris/0.jpg" height="500" width="800">
+        <div class="text">Start Menu</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/mathris/1.jpg" height="500" width="800">
+        <div class="text">Tutorial Menu</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/mathris/2.jpg" height="500" width="800">
+        <div class="text">Tutorial Level</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/mathris/3.jpg" height="500" width="800">
+        <div class="text">Single Player Mode</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/mathris/4.jpg" height="500" width="800">
+        <div class="text">VS Mode (2 players)</div>
+      </div>
+      <a class="prev" onclick="plusSlides(-1)">❮</a>
+      <a class="next" onclick="plusSlides(1)">❯</a>
     </div>
-    <!-- 如果需要分页器 -->
-    <div class="swiper-pagination"></div>
-    
-    <!-- 如果需要导航按钮 -->
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
-    
-    <!-- 如果需要滚动条 -->
-    <!-- <div class="swiper-scrollbar"></div> -->
-	</div>
-		<br><br>
-	<p>Job title: Idea founder, lead designer, prototype developer, UI designer and developer.</p>
-    <p>This is my final project for GSND 5110 Game Design and Analysis at Northeastern University. This is a Tetris-inspired game that challenges players to perform simple mathematical calculations to reach progressively larger goals within a set amount of time. The game also features a 2-player mode where players compete against friends or family members to see who can get a higher score in one minute.&nbsp;  </p>
-		
-    <p>As the idea founder, The initial concept was making a game based on the framework of Tetris. However, I want it to be implemented with the elements of simple math calculations. Calculation symbols such as addition, subtraction, multiplication, and division were the operators I wanted to put into the game. My main focus is providing the play aesthetics of challenge and submission, much like Tetris. I want the game to be reasonably challenging but not overly complex. I also took inspiration from games like Candy Crush Saga with respect to how we give feedback after a calculation was completed.</p>
-		
-	<p>After the Idea was set, I started the development on the prototype on Unity. I created a simple Tetris scene and developed math operators' mechanics on it. After a few iterations, I started to works with the team artist on the UI design. I also manage the team progress to make sure all aspects of the development works go well.</p>
-		
+    <br>
+
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+    </div>
+
+    <br><br>
+    <p>Job title: Idea founder, lead designer, prototype developer, UI designer and developer.</p>
+    <p>This is my final project for GSND 5110 Game Design and Analysis at Northeastern University.
+      This is a Tetris-inspired game that challenges players to perform simple mathematical calculations to reach
+      progressively larger goals within a set amount of time. The game also features a 2-player mode where players
+      compete against friends or family members to see who can get a higher score in one minute.&nbsp; </p>
+
+    <p>As the idea founder, The initial concept was making a game based on the framework of Tetris. However, I want it
+      to be implemented with the elements of simple math calculations. Calculation symbols such as addition,
+      subtraction, multiplication, and division were the operators I wanted to put into the game. My main focus is
+      providing the play aesthetics of challenge and submission, much like Tetris. I want the game to be reasonably
+      challenging but not overly complex. I also took inspiration from games like Candy Crush Saga with respect to how
+      we give feedback after a calculation was completed.</p>
+
+    <p>After the Idea was set, I started the development on the prototype on Unity. I created a simple Tetris scene and
+      developed math operators' mechanics on it. After a few iterations, I started to works with the team artist on the
+      UI design. I also manage the team progress to make sure all aspects of the development works go well.</p>
+
     <p>Feel free to play it on my itch page: <a href="https://tian4damien.itch.io/mathris">Mathris</a></p>
   </section>
-	
-	<div class="backToMain">
-		 <a href="index.html">Back to the main page</a>
-	</div>
-<footer>
-  <hr>
-  <p class="footerDisclaimer">2018-2020 Copyrights - <span>All Rights Reserved</span></p>
-  <p class="footerNote">Hao Tian - <span><a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tian4damien@gmail.com&su=SUBJECT&body=BODY&tf=1">Email me</a></span></p>
-</footer>
 
-<script src="https://unpkg.com/swiper/js/swiper.js"> </script>  
-<script src="https://unpkg.com/swiper/js/swiper.min.js"> </script>
+  <div class="backToMain">
+    <a href="index.html">Back to the main page</a>
+  </div>
+  <footer>
+    <hr>
+    <p class="footerDisclaimer">2018-2020 Copyrights - <span>All Rights Reserved</span></p>
+    <p class="footerNote">Hao Tian - <span><a
+          href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tian4damien@gmail.com&su=SUBJECT&body=BODY&tf=1">Email
+          me</a></span></p>
+  </footer>
 
-<script type="text/javascript">
-    var mySwiper = new Swiper ('.swiper-container', {
-    // 滚动方向 horizontal/vertical
-    direction: 'horizontal',
-    // 自动播放
-    autoplay:2000,
-    // 是否循环播放
-    loop: true,
-    // 如果需要分页器（小圆点）
-    // 是否需要分页器
-    pagination: '.swiper-pagination',
-    // 点击分页器是否切换到对应的图片 是 true 否 false
-    paginationClickable:true,
+  <script src="Scripts/slideshow.js"></script>
 
-    // 如果需要前进后退按钮
-    nextButton: '.swiper-button-next',
-    prevButton: '.swiper-button-prev',
-		
-	// 如果需要前进后退按钮
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    },
-    
-    // 用户操作swiper之后，是否禁止autoplay。默认为true：停止。
-    // 如果设置为false，用户操作swiper之后自动切换不会停止，每次都会重新启动autoplay。
-    // 操作包括触碰，拖动，点击pagination等。
-    autoplayDisableOnInteraction:false,
-  }) 
-
-</script>
-	
 </body>
-</html>
 
+</html>

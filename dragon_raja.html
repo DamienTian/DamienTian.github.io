@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Hao Tian - Dragon Raja (PC release)</title>
+  <link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
+
+</head>
+
+<body>
+  <section class="profileHeader">
+    <h1 class="gameTitle">PC SDK for Dragon Raja: the first PC version MMORPG of Archosaur Games and beyond...</h1>
+    <h4>. &nbsp;</h4>
+    <hr>
+
+    <div class="slideshow-container">
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/dragon_raja/0.png" height="450" width="800">
+        <div class="text">Login Page (UI is not made by me)</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/dragon_raja/1.png" height="450" width="800">
+        <div class="text">Registration Page (UI is not made by me)</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/dragon_raja/3.png" height="450" width="800">
+        <div class="text">Email Registration Page (UI is not made by me)</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/dragon_raja/5.png" height="450" width="800">
+        <div class="text">Change Password Page (UI is not made by me)</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/dragon_raja/2.png" height="450" width="800">
+        <div class="text">Facebook Page (Webpage is not made by me)</div>
+      </div>
+      <div class="mySlides fade">
+        <img src="AboutPageAssets/images/dragon_raja/4.png" height="450" width="800">
+        <div class="text">Twitter Page (Webpage is not made by me)</div>
+      </div>
+      <a class="prev" onclick="plusSlides(-1)">❮</a>
+      <a class="next" onclick="plusSlides(1)">❯</a>
+    </div>
+    <br>
+
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+      <span class="dot" onclick="currentSlide(6)"></span>
+    </div>
+
+    
+    <p>Job title: SDK Developer</p>
+    <p>I developed the first version of PC SDK on Unreal Engine 4 for game Dragon Raja, which is the first PC version MMORPG . 
+        The SDK provides user related APIs for game development team to use, the APIs include:</p>
+    <ul>
+        <li>Login by username & password</li>
+        <li>Login by email</li>
+        <li>Login via Facebook & Twitter</li>
+        <li>Register by username & password</li>
+        <li>Register by email</li>
+        <li>Change password</li>
+        <li>Logout</li>
+    </ul>
+    <p>I worked with the server team (backend) and game development team (frontend) to build the first PC SDK for the company, the SDK
+        has been deployed on Dragon Raja, and the SDK will be applied on other PC games made by Archosaur Games.
+    </p>
+    <p>In order to make this project, first I studied how does the HTTP protocol work, and  I rewrote the most of user realted API of 
+        mobile games by native C++ and Unreal C++. I also created the password encryption and decryption API that works with the company's 
+        server for PC game; I studied OpenSSL for a couple of days and created the API.
+    </p>
+    <p>Furthermore, I also create Unreal Engine 4 blueprint plugin of the SDK, the plugin encapsulate all interfaces in the SDK, game
+        development programmer can use Unreal Engine blueprint graphics interface to add the SDK's functionalities in game without rewrite 
+        other interfaces to use the SDK or read the SDK's code. For Facebook and Twitter login, I used and modified Unreal Engine Web Browser 
+        Widget, and included it in the plugin which achieved in-app third party login.
+    </p>
+    <p>Feel free to check my work by downloading PC version of <a href="https://dragonraja.zloong.com/">Dragon Raja</a>.
+    </p>
+  </section>
+
+  <div class="backToMain">
+    <a href="index.html">Back to the main page</a>
+  </div>
+  <footer>
+    <hr>
+    <p class="footerDisclaimer">2018-2022 Copyrights - <span>All Rights Reserved</span></p>
+    <p class="footerNote">Hao Tian - <span><a
+          href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tian4damien@gmail.com&su=SUBJECT&body=BODY&tf=1">Email
+          me</a></span></p>
+  </footer>
+
+  <script src="Scripts/slideshow.js"></script>
+</body>
+</html>

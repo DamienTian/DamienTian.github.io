@@ -30,6 +30,14 @@ p {
 	text-align: justify;
 }
 
+ul {
+	color: white;
+}
+
+li {
+	color: white;
+}
+
 .grid {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -59,7 +67,8 @@ p {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	padding: .1rem;
+	padding: .5rem;
+	max-width: 75ch;
 }
 
 p {
